@@ -4,8 +4,13 @@
   "description": "Simple dfp Ads system",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run open",
+    "open": "concurrently \"http-server -a localhost -p 1234\" \"open http://localhost:1234/example.html\""
   },
   "author": "Richard Dillman - ATP <rdillman@gmail.com>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "http-server": "^0.10.0"
+  }
 }
