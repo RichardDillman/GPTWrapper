@@ -10,7 +10,7 @@ npm i
 ```
 ## Edit the config
 
-In the example HTML file scroll to the bottom and change __network__ and __site__ to your values.
+In the example HTML file scroll to the bottom and change __network__ and __site__ to your values or you will not see any ads.
 
 ## Viewing the page
 
