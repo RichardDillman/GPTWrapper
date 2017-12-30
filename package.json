@@ -1,0 +1,11 @@
+{
+  "name": "DFPads",
+  "version": "2.0.0",
+  "description": "Simple dfp Ads system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Dillman - ATP <rdillman@gmail.com>",
+  "license": "UNLICENSED"
+}
