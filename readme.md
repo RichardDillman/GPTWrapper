@@ -9,6 +9,7 @@ My own personal wrapper for GPT.  This is something I built several years ago. A
 npm i
 ```
 ## Edit the config
+
 In the example HTML file scroll to the bottom and change __network__ and __site__ to your values.
 
 ## Viewing the page
@@ -18,11 +19,13 @@ npm start
 ```
 
 ## Viewing the debug frame
+
 ````javascript
 window.money.homepage.debug();
 ```
 
 ## Viewing the google console
-````javascript
+
+```javascript
 googletag.openConsole();
 ```
