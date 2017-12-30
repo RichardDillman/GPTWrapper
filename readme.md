@@ -20,7 +20,7 @@ npm start
 
 ## Viewing the debug frame
 
-````javascript
+```javascript
 window.money.homepage.debug();
 ```
 
